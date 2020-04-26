@@ -11,7 +11,9 @@ As stated above, the main purpose is to provide simple examples for Git training
 
 ## How to Contribute code
 
+### Copyright
 
+2020 Git.Training.
 
 ## Deployment
 
