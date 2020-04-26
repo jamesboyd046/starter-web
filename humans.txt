@@ -3,12 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Jmes Boyd -- Student -- no-twitter
 
 # THANKS
 
-    <name>
-
+    Mom
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
