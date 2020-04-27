@@ -19,4 +19,4 @@ Please fork this repository and then issue Pull
 
 ## Deployment
 
-This is a simple web project, deployment can be any web server or even local file system
+This is a simple web project, deployment can be any web server or even local file system.  All rights reserved.
